@@ -11,9 +11,6 @@
     23, 29, 29, 23, 29, 17,
   ];
   const eggs = [81, 75, 75, 81, 32, 75, 81, 75, 81];
-  const fans = [81, 75, 75, 81, 81, 75, 81, 75, 81];
-  const grapes = String.fromCharCode(...eggs);
-  const hands = String.fromCharCode(...fans);
 
   // 1. Show array apples.
 
@@ -81,6 +78,7 @@
 
   // 19. Calculate how many 23s and 17s combined are in array dogs.
 
+  // YOU CAN STOP HERE -- July 5th, 2022
   // 20. Show array eggs.
 
   // 21. How large is array eggs?
@@ -89,27 +87,14 @@
 
   // 23. Does array eggs have only 75s and 81s?
 
-  // 24. Show array fans.
-
-  // 25. How large is array fans?
-
-  // 26. How many 32s are in array fans?
-
-  // 27. Does array fans have only 75s and 81s?
-
-  // 28. Show array grapes.
-
-  // 29. How large is array grapes?
-
-  // 30. How many " "s are in array grapes?
-
-  // 31. Does array grapes have only "Q"s and "K"s?
-
-  // 32. Show array hands.
-
-  // 33. How large is array hands?
-
-  // 34. How many " "s are in array hands?
-
-  // 35. Does array hands have only "Q"s and "K"s?
+ 
 })();
+
+// Stretch Goal Exercise 1 
+
+// Timer Challenge:
+
+// Use the event timer function to animate the included sprite images of 'guy' images (in guy folder).
+//  Start with an initial image of guy1.png then every .5 second (500 ms) 
+//  update the image to the next one in sequence. Once you reach image guy9.png 
+//  start over with the guy1.png image.
