@@ -6,12 +6,15 @@ Answer the questions below, then complete the exercises
 
 - Question 1 
     What is a function in JS?
+    A function is a series of methods and statements to provide a general template for an end result.
 
 - Question 2
 In your own words, why do we use functions in Javascript?
+    we use functions to set a template for a process and result and then call it when needed.
 
 - Question 3
 In your own words, when should we use a function?
+We should use a function whenever we don't want to repeat unnecessary steps in coding.
 
 - Question 4
  What is a higher order function in Javascript? (requires research on your own ;))
@@ -19,7 +22,7 @@ In your own words, when should we use a function?
 
 
 
-
+<!-- 
 
 
 
@@ -60,4 +63,4 @@ Write a function `lengths` that accepts a single parameter as an argument, namel
 
 
 ## Stetch Goal Exercise 2
-Turn all functions you have written into arrow functions [click here for info](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+Turn all functions you have written into arrow functions [click here for info](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions) -->

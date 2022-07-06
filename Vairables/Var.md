@@ -6,12 +6,15 @@ Answer the questions below, the complete the exercises
 
 - Question 1 
     What is a variable in JS?
+    A variable holds information/data
 
 - Question 2
 In your own words, why do we use variables in Javascript?
+    We use variables in Javascript to find solutions to individual problems.
 
 - Question 3
 How do we know which variable to use? (var, let & const)
+    Var is old and outdated. Let is casual and can change. Const is forever.
 
 
 

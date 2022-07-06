@@ -6,18 +6,25 @@ Answer the questions below, then complete the exercises
 
 - Question 1 
     What is an array in JS?
+    An array holds information in lists.
 
 - Question 2
 In your own words, why do we use arrays in Javascript
+We use arrays to hold information we need when the information we have is in a list form
 
 - Question 3
 In your own words, when should we use an array?
+We should use an array whenever we have a list or multiple variables that would be too unweilding to do one by one.
 
 - Question 4
  What are 3 kinds of array methods, and how do we use them?
+ .length - calls the length of the array (amount of variables in the array)
+ .splice - cuts a certain/specific variable out of the array.
+ .push - pushes information into whatever array you're pushing
 
  - Question 5
  What ar two examples of higher order Array methods? 
+ forEach() - arrayName.forEach((item, index) => {code block})
 
 
 
